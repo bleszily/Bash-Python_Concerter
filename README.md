@@ -9,3 +9,5 @@ Usage:
 ./bash2python.sh example.sh or python bash2python.sh.py example.sh
 
 - This will convert the example.sh bash script to a python file
+
+- Use with caution
